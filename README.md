@@ -17,11 +17,11 @@
 <br/>
 
 <!-- ── QUICK BADGES ────────────────────────────────────────────── -->
-[![Profile Views](https://komarev.com/ghpvc/?username=navyatejani123&label=Profile%20Views&color=c084fc&style=flat-square)](https://github.com/navyatejani123)
+[![Profile Views](https://komarev.com/ghpvc/?username=navyatejani&label=Profile%20Views&color=c084fc&style=flat-square)](https://github.com/navyatejani)
 &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/navyatejani123?label=Followers&style=flat-square&color=a855f7)](https://github.com/navyatejani123?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/navyatejani?label=Followers&style=flat-square&color=a855f7)](https://github.com/navyatejani?tab=followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/navyatejani123?label=Stars&style=flat-square&color=e879f9)](https://github.com/navyatejani123)
+[![GitHub Stars](https://img.shields.io/github/stars/navyatejani?label=Stars&style=flat-square&color=e879f9)](https://github.com/navyatejani)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes!-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
 
@@ -179,19 +179,19 @@ class Navya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navyatejani123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=e879f9&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=navyatejani&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=e879f9&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyatejani123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyatejani&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- ── STREAK STATS ─────────────────────────────────────────────── -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyatejani123&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=c084fc&fire=e879f9&currStreakLabel=c084fc" width="60%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyatejani&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=c084fc&fire=e879f9&currStreakLabel=c084fc" width="60%" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- ── CONTRIBUTION GRAPH ──────────────────────────────────────── -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyatejani123&bg_color=0d0d0d&color=c084fc&line=a855f7&point=e879f9&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyatejani&bg_color=0d0d0d&color=c084fc&line=a855f7&point=e879f9&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -208,7 +208,7 @@ class Navya:
 
 <br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=navyatejani123&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=navyatejani&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
@@ -259,7 +259,7 @@ class Navya:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://github.com/navyatejani123" target="_blank">
+<a href="https://github.com/navyatejani" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
@@ -283,5 +283,5 @@ class Navya:
 <!--  ✅  QUICK CHECKLIST BEFORE PUBLISHING                         -->
 <!--  [ ] Update project names, descriptions & links                -->
 <!--  [ ] Add your portfolio & resume URLs when ready               -->
-<!--  [ ] Push this file as README.md to your navyatejani123 repo   -->
+<!--  [ ] Push this file as README.md to your navyatejani repo   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
