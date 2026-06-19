@@ -1,282 +1,244 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--        NAVYA TEJANI PALAVALASA — GitHub Profile README             -->
+<!--        ✏️  Search [UPDATE] to personalise placeholders             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:e879f9&height=180&section=header&text=Navya%20Tejani%20Palavalasa&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20CSE%20Final%20Year&descAlignY=62&descSize=14&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<!-- ── ANIMATED TYPING BANNER ─────────────────────────────────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Navya+Tejani+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiast;Final+Year+CSE+Student;Building+Tomorrow%27s+Tech+Today)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Building+elegant+software+%F0%9F%92%9C;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Crafting+full-stack+experiences+%F0%9F%8C%90;Always+learning%2C+always+growing+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ── PROFILE PICTURE / AVATAR BANNER ────────────────────────── -->
-<!-- [UPDATE] Replace URL below with your own banner image if you have one -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Navya%20Tejani%20Palavalasa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20CSE%20Student&descAlignY=58&descSize=16" width="100%"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=navyatejani&style=flat-square&color=a855f7&label=Profile+Views)](https://github.com/navyatejani)
+[![Followers](https://img.shields.io/github/followers/navyatejani?style=flat-square&color=c084fc&label=Followers)](https://github.com/navyatejani?tab=followers)
+[![Stars](https://img.shields.io/github/stars/navyatejani?style=flat-square&color=e879f9&label=Stars)](https://github.com/navyatejani)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-22c55e?style=flat-square)](https://www.linkedin.com/in/navya-tejani-645b832a1/)
+
+</div>
 
 <br/>
 
-<!-- ── QUICK BADGES ────────────────────────────────────────────── -->
-[![Profile Views](https://komarev.com/ghpvc/?username=navyatejani&label=Profile%20Views&color=c084fc&style=flat-square)](https://github.com/navyatejani)
-&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/navyatejani?label=Followers&style=flat-square&color=a855f7)](https://github.com/navyatejani?tab=followers)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/navyatejani?label=Stars&style=flat-square&color=e879f9)](https://github.com/navyatejani)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes!-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+### 👩‍💻 &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;🎓 &nbsp;B.Tech Final Year — CSE (AI & ML), Visakhapatnam  
+&nbsp;&nbsp;&nbsp;💼 &nbsp;Aspiring Software Engineer — Full Stack & AI/ML  
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently mastering DSA, Full Stack & ML  
+&nbsp;&nbsp;&nbsp;🤝 &nbsp;Open to internships, freelance & open-source  
+&nbsp;&nbsp;&nbsp;📍 &nbsp;Visakhapatnam, India  
+&nbsp;&nbsp;&nbsp;📬 &nbsp;navyatejani425@gmail.com
+
+<br/>
+
+> *Passionate about building technology that matters — from elegant UIs to intelligent backends.*
+
+<br clear="both"/>
+
+---
+
+### 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e879f9)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=a855f7)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=c084fc)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e879f9)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=a855f7)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=c084fc)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=c084fc)
+![Express](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=e879f9)
+![Django](https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=a855f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=c084fc)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=e879f9)
+
+**Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=c084fc)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e879f9)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=a855f7)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=c084fc)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=e879f9)
 
 </div>
 
 ---
 
-## 🌸 About Me
+### 🚀 &nbsp;Featured Projects
 
-```python
-class Navya:
-    name       = "Navya Tejani Palavalasa"
-    role       = "Full Stack Developer"
-    education  = "B.Tech Final Year — CSE (AI & ML)"
-    university = "Anil Neerukonda Institute of Technology and Sciences"
-    email      = "navyatejani425@gmail.com"
-
-    currently  = [
-        "Mastering Data Structures & Algorithms",
-        "Building Full Stack projects",
-        "Exploring Machine Learning models",
-    ]
-
-    goals      = "Aspiring SWE → impactful products in Full-Stack & AI/ML"
-    fun_fact   = "I debug best with lo-fi music and strong coffee ☕"
-```
-
-> 🎯 *I'm a final-year CSE student passionate about technology and continuous learning.
-> I enjoy exploring AI/ML, solving coding challenges, and working on projects that help me grow as a developer.
-> Currently preparing for software engineering roles and building skills through hands-on projects.*
-
----
-
-## 🛠️ Tech Stack
+<!-- [UPDATE] Replace each project block with your real project details -->
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="50%" valign="top">
 
-### 💬 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**🔮 Project One**
+<!-- [UPDATE] Replace name, description, stack & links -->
+> Brief one-liner about what this project does.
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+A concise description of the project — the problem it solves, who it helps, and what makes it interesting. Keep it to 2–3 sentences.
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square&logo=react&logoColor=c084fc)
+![Node.js](https://img.shields.io/badge/-Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=a855f7)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=e879f9)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-c084fc?style=flat-square&logo=github)](https://github.com/navyatejani)
+[![Demo](https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel)](https://github.com/navyatejani)
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</td>
+<td width="50%" valign="top">
 
-</div>
+**🌸 Project Two**
+<!-- [UPDATE] Replace name, description, stack & links -->
+> Brief one-liner about what this project does.
 
----
+A concise description of the project — the problem it solves, who it helps, and what makes it interesting. Keep it to 2–3 sentences.
 
-## 🚀 Featured Projects
+![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=c084fc)
+![Django](https://img.shields.io/badge/-Django-1a1a2e?style=flat-square&logo=django&logoColor=a855f7)
+![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=e879f9)
 
-<!-- > 💡 *[UPDATE] Replace the placeholder cards below with your actual project details.*-->
+[![Repo](https://img.shields.io/badge/GitHub-Repo-c084fc?style=flat-square&logo=github)](https://github.com/navyatejani)
+[![Demo](https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel)](https://github.com/navyatejani)
 
-<div align="center">
-<table>
-  <tr>
-    <!-- PROJECT 1 -->
-    <td width="33%" valign="top">
-      <h3 align="center">🔷 Project One</h3>
-      <p align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x160/c084fc/ffffff?text=Project+1" width="100%" alt="Project 1"/>
-        </a>
-      </p>
-      <p align="center">
-        <!-- [UPDATE] Replace description, tech stack, and links -->
-        <strong>Brief Description Here</strong><br/>
-        A short, punchy explanation of what this project does and the problem it solves.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-c084fc?style=flat-square&logo=github"/></a>
-        &nbsp;
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel"/></a>
-      </p>
-    </td>
-    <!-- PROJECT 2 -->
-    <td width="33%" valign="top">
-      <h3 align="center">🔷 Project Two</h3>
-      <p align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x160/a855f7/ffffff?text=Project+2" width="100%" alt="Project 2"/>
-        </a>
-      </p>
-      <p align="center">
-        <!-- [UPDATE] Replace description, tech stack, and links -->
-        <strong>Brief Description Here</strong><br/>
-        A short, punchy explanation of what this project does and the problem it solves.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-c084fc?style=flat-square&logo=github"/></a>
-        &nbsp;
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel"/></a>
-      </p>
-    </td>
-    <!-- PROJECT 3 -->
-    <td width="33%" valign="top">
-      <h3 align="center">🔷 Project Three</h3>
-      <p align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x160/9333ea/ffffff?text=Project+3" width="100%" alt="Project 3"/>
-        </a>
-      </p>
-      <p align="center">
-        <!-- [UPDATE] Replace description, tech stack, and links -->
-        <strong>Brief Description Here</strong><br/>
-        A short, punchy explanation of what this project does and the problem it solves.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-c084fc?style=flat-square&logo=github"/></a>
-        &nbsp;
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel"/></a>
-      </p>
-    </td>
-  </tr>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+**✨ Project Three**
+<!-- [UPDATE] Replace name, description, stack & links -->
+> Brief one-liner about what this project does.
+
+A concise description of the project — the problem it solves, who it helps, and what makes it interesting. Keep it to 2–3 sentences.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=c084fc)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-1a1a2e?style=flat-square&logo=tailwind-css&logoColor=a855f7)
+![AWS](https://img.shields.io/badge/-AWS-1a1a2e?style=flat-square&logo=amazonaws&logoColor=e879f9)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-c084fc?style=flat-square&logo=github)](https://github.com/navyatejani)
+[![Demo](https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel)](https://github.com/navyatejani)
+
+</td>
+</tr>
 </table>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navyatejani&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=e879f9&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyatejani&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- ── STREAK STATS ─────────────────────────────────────────────── -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyatejani&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=c084fc&fire=e879f9&currStreakLabel=c084fc" width="60%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- ── CONTRIBUTION GRAPH ──────────────────────────────────────── -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyatejani&bg_color=0d0d0d&color=c084fc&line=a855f7&point=e879f9&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details |
-|:---|:---|
-| 🌟 **Infosys SpringBoard Virtual Internship 7.0** | Selected participant — industry exposure in software development |
-| 📜 **NPTEL Elite Certification** | Applied Accelerated Artificial Intelligence — Elite grade |
+<img src="https://github-readme-stats.vercel.app/api?username=navyatejani&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=e879f9&text_color=d1d5db&include_all_commits=true&count_private=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyatejani&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=d1d5db&langs_count=7" height="175"/>
 
 <br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=navyatejani&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyatejani&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=c084fc&fire=e879f9&currStreakLabel=a855f7&sideLabels=d1d5db&dates=9ca3af" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyatejani&bg_color=0d0d0d&color=c084fc&line=a855f7&point=e879f9&area=true&area_color=7c3aed&hide_border=true" width="92%"/>
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+### 🏆 &nbsp;Achievements & Certifications
 
 <div align="center">
 
-```text
-📌  Data Structures & Algorithms  ████████████░░░░   75%
-🌐  Full Stack Development        ███████████░░░░░   70%
-🤖  Machine Learning              ████████░░░░░░░░   50%
+![Trophies](https://github-profile-trophy.vercel.app/?username=navyatejani&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+<br/>
+
+| &nbsp; | Credential | Detail |
+|:---:|:---|:---|
+| 🌟 | **Infosys SpringBoard Virtual Internship 7.0** | Selected participant — hands-on software development exposure |
+| 📜 | **NPTEL Elite Certification** | Applied Accelerated Artificial Intelligence — Elite grade |
+
+---
+
+### 📚 &nbsp;Currently Learning
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=c084fc)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-1a1a2e?style=for-the-badge&logo=stackblitz&logoColor=e879f9)
+![ML](https://img.shields.io/badge/Machine%20Learning-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=a855f7)
+
+</div>
+
+```
+  DSA & Problem Solving    ████████████▒░░░  75%
+  Full Stack Development   ███████████▒░░░░  70%
+  Machine Learning         ████████▒░░░░░░░  50%
 ```
 
-![DSA](https://img.shields.io/badge/DSA-In%20Progress-c084fc?style=for-the-badge&logo=leetcode&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Building-a855f7?style=for-the-badge&logo=stackblitz&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-Exploring-e879f9?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
 ---
 
-## 🤝 Open to Collaborate On
+### 🤝 &nbsp;Open to Collaborate
 
 <div align="center">
 
-| 💡 Type | 🔍 Details |
-|:---|:---|
-| 🌐 **Open Source** | Contributing to meaningful open-source projects |
-| 💼 **Freelance** | Web apps, dashboards, or AI-powered tools |
-| 🔬 **Research** | AI/ML experiments and academic collaborations |
-| 🚀 **Startups** | Innovative ideas that solve real-world problems |
+| 🌐 Open Source | 💼 Freelance | 🔬 Research | 🚀 Startups |
+|:---:|:---:|:---:|:---:|
+| Meaningful contributions | Web & AI-powered apps | AI/ML experiments | Ideas that matter |
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 &nbsp;Let's Connect
 
 <div align="center">
 
 <a href="mailto:navyatejani425@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-navyatejani425-c084fc?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/navya-tejani-645b832a1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Navya%20Tejani-a855f7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/navyatejani" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-navyatejani-e879f9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<!-- [UPDATE] Add your portfolio link once ready -->
-<!-- <a href="[PORTFOLIO_URL]" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-c084fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a> -->
 
 <br/><br/>
 
-> 💬 *"Every line of code is a step closer to the engineer I'm becoming."*
-> — Navya Tejani
+*Every line of code is a step closer to the engineer I'm becoming.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%"/>
-
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  ✅  QUICK CHECKLIST BEFORE PUBLISHING                         -->
-<!--  [ ] Update project names, descriptions & links                -->
-<!--  [ ] Add your portfolio & resume URLs when ready               -->
-<!--  [ ] Push this file as README.md to your navyatejani repo   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:a855f7,100:7c3aed&height=120&section=footer" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ✅  PUBLISH CHECKLIST                                             -->
+<!--  [ ] Create repo named exactly: navyatejani                        -->
+<!--  [ ] Add this file as README.md                                    -->
+<!--  [ ] Fill in [UPDATE] project sections with real details           -->
+<!--  [ ] Add Portfolio & Resume links when ready                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
