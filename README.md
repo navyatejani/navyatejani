@@ -85,14 +85,18 @@ class Navya:
 
 ---
 
-## 🚀 Featured Projects
 
-<!-- > 💡 *[UPDATE] Replace the placeholder cards below with your actual project details.*-->
+<!-- 🚀 Featured Projects -->
 
+<!-- > 💡 [UPDATE] Replace the placeholder cards below with your actual project details. -->
+
+<!--
 <div align="center">
 <table>
   <tr>
+
     <!-- PROJECT 1 -->
+    <!--
     <td width="33%" valign="top">
       <h3 align="center">🔷 Project One</h3>
       <p align="center">
@@ -101,7 +105,6 @@ class Navya:
         </a>
       </p>
       <p align="center">
-        <!-- [UPDATE] Replace description, tech stack, and links -->
         <strong>Brief Description Here</strong><br/>
         A short, punchy explanation of what this project does and the problem it solves.
       </p>
@@ -116,7 +119,10 @@ class Navya:
         <a href="#"><img src="https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel"/></a>
       </p>
     </td>
+    -->
+
     <!-- PROJECT 2 -->
+    <!--
     <td width="33%" valign="top">
       <h3 align="center">🔷 Project Two</h3>
       <p align="center">
@@ -125,7 +131,6 @@ class Navya:
         </a>
       </p>
       <p align="center">
-        <!-- [UPDATE] Replace description, tech stack, and links -->
         <strong>Brief Description Here</strong><br/>
         A short, punchy explanation of what this project does and the problem it solves.
       </p>
@@ -140,7 +145,10 @@ class Navya:
         <a href="#"><img src="https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel"/></a>
       </p>
     </td>
+    -->
+
     <!-- PROJECT 3 -->
+    <!--
     <td width="33%" valign="top">
       <h3 align="center">🔷 Project Three</h3>
       <p align="center">
@@ -149,7 +157,6 @@ class Navya:
         </a>
       </p>
       <p align="center">
-        <!-- [UPDATE] Replace description, tech stack, and links -->
         <strong>Brief Description Here</strong><br/>
         A short, punchy explanation of what this project does and the problem it solves.
       </p>
@@ -164,9 +171,12 @@ class Navya:
         <a href="#"><img src="https://img.shields.io/badge/Live-Demo-e879f9?style=flat-square&logo=vercel"/></a>
       </p>
     </td>
-  </tr>
+    -->
+
+ <!-- </tr>
 </table>
 </div>
+-->
 
 ---
 
