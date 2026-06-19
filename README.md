@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           NAVYA TEJANI PALAVALASA — GitHub Profile README        -->
-<!--     ✏️  Search for [UPDATE] tags to personalise this file        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <!-- ── ANIMATED TYPING BANNER ─────────────────────────────────── -->
@@ -36,7 +31,7 @@ class Navya:
     name       = "Navya Tejani Palavalasa"
     role       = "Full Stack Developer"
     education  = "B.Tech Final Year — CSE (AI & ML)"
-    university = "Visakhapatnam, India"
+    university = "Anil Neerukonda Institute of Technology and Sciences"
     email      = "navyatejani425@gmail.com"
 
     currently  = [
@@ -92,7 +87,7 @@ class Navya:
 
 ## 🚀 Featured Projects
 
-> 💡 *[UPDATE] Replace the placeholder cards below with your actual project details.*
+<!-- > 💡 *[UPDATE] Replace the placeholder cards below with your actual project details.*-->
 
 <div align="center">
 <table>
